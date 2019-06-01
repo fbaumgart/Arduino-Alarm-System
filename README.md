@@ -7,4 +7,8 @@ You activate alarm with a button and then provide PIN. After countdown alarm goe
 When motion detected by the PIR sensor the alarm triggers and user has to provide the PIN code in the certain time.
 After countdown goes to zero the system sends SMS message to the phone number with the information about the alarm.
 
+Files:
+1) final.ino - contains the source code for the Uno board
+2) pdf contains project report in PL language
+
 Created with @fluid14
