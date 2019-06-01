@@ -255,9 +255,9 @@ if(keyFlag)
             hiddenchars = "";
             lcd.clear();
             lcd.setCursor(3, 0);
-            lcd.print("Uzbrajanie");
+            lcd.print("Arming the alarm");
             lcd.setCursor(0, 1); 
-            lcd.print("Podaj kod:");  
+            lcd.print("Pass the code:");  
     }
     }while(keyFlag);
     
